@@ -5,3 +5,5 @@ The 3 courses included are:
 1. Getting started with TensorFlow 2
 2. Customising your models with TensorFlow 2
 3. Probabilistic Deep Learning with TensorFlow 2
+
+I don't even know why I need a readme for a private repo of a Coursera course!
